@@ -43,7 +43,7 @@
     "babel-loader": "^8.1.0",
     "typescript": "~3.8.3",
     "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "react": "~16.9.0",
     "react-dom": "~16.9.0"
   },
